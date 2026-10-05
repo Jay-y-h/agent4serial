@@ -1,0 +1,235 @@
+time=2026-09-30T17:04:22.193+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-09-30T17:04:58.230+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-09-30T17:09:03.083+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-09-30T17:09:03.096+08:00 level=INFO msg="Serial Agent 已停止"
+time=2026-10-05T09:38:32.141+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-10-05T09:38:32.163+08:00 level=INFO msg="Serial Agent 已停止"
+time=2026-10-05T10:01:39.615+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-10-05T10:17:47.312+08:00 level=INFO msg="Serial Agent 已停止"
+time=2026-10-05T10:41:37.020+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-10-05T10:41:40.485+08:00 level=INFO msg="Serial Agent 已停止"
+time=2026-10-05T10:47:11.169+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-10-05T10:47:11.185+08:00 level=INFO msg="Serial Agent 已停止"
+time=2026-10-05T10:47:23.300+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-10-05T10:47:23.316+08:00 level=INFO msg="Serial Agent 已停止"
+time=2026-10-05T10:48:56.010+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-10-05T10:48:56.032+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=serial-agent-01&type=device"
+time=2026-10-05T11:03:59.195+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-10-05T11:03:59.213+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T11:03:59.213+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM5
+time=2026-10-05T11:03:59.213+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:03:59.215+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T11:03:59.216+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=serial-agent-01&type=device"
+time=2026-10-05T11:04:02.214+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:04:05.214+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:04:08.215+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:04:11.216+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:04:14.216+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:04:17.217+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:04:20.218+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:04:23.219+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:04:26.220+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:04:28.183+08:00 level=INFO msg="Websocket 已关闭"
+time=2026-10-05T11:04:28.218+08:00 level=INFO msg=串口已关闭 device=dev-nzcsy
+time=2026-10-05T11:04:28.218+08:00 level=INFO msg="Serial Agent 已停止"
+time=2026-10-05T11:19:40.154+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-10-05T11:19:40.168+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T11:19:40.168+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM5
+time=2026-10-05T11:19:40.169+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:19:40.171+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T11:19:40.172+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=serial-agent-01&type=device"
+time=2026-10-05T11:19:43.169+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:19:46.170+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:19:49.171+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:19:52.171+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:19:55.172+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-scan01 error="打开串口 COM5 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:20:59.130+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-10-05T11:20:59.154+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T11:20:59.154+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T11:20:59.154+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T11:20:59.157+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T11:20:59.159+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=serial-agent-01&type=device"
+time=2026-10-05T11:30:52.609+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-10-05T11:30:52.624+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T11:30:52.624+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T11:30:52.624+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T11:30:52.626+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T11:30:52.627+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=serial-agent-01&type=device"
+time=2026-10-05T11:31:01.775+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=3 hex=313233
+time=2026-10-05T11:31:58.790+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=11 hex=68656c6c6f20776f726c64
+time=2026-10-05T11:32:10.651+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=11 hex=68656c6c6f20776f726c64
+time=2026-10-05T11:32:16.289+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=11 hex=68656c6c6f20776f726c64
+time=2026-10-05T11:32:50.586+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=1 hex=31
+time=2026-10-05T11:33:38.654+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-nzcsy error="Access is denied." retry_in=3s
+time=2026-10-05T11:33:41.654+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-nzcsy error="打开串口 COM4 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:33:44.658+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-nzcsy error="打开串口 COM4 失败: Serial port not found" retry_in=3s
+time=2026-10-05T11:33:47.661+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T11:33:55.040+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=1 hex=31
+time=2026-10-05T11:50:49.447+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=serial-agent-01 devices=2
+time=2026-10-05T11:50:49.484+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T11:50:49.484+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T11:50:49.487+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T11:50:49.489+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T11:50:49.496+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=serial-agent-01&type=device"
+time=2026-10-05T11:51:05.268+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T11:55:23.275+08:00 level=INFO msg="Websocket 已关闭"
+time=2026-10-05T11:55:23.313+08:00 level=INFO msg=串口已关闭 device=dev-nzcsy
+time=2026-10-05T11:55:23.314+08:00 level=INFO msg=串口已关闭 device=dev-scan01
+time=2026-10-05T11:55:23.314+08:00 level=INFO msg="Serial Agent 已停止"
+time=2026-10-05T11:55:26.935+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-05T11:55:26.957+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T11:55:26.958+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T11:55:26.958+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T11:55:26.961+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T11:55:26.962+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T11:55:31.921+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T11:59:59.645+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:00:26.948+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-05T12:00:26.976+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T12:00:26.976+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T12:00:26.977+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T12:00:26.979+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T12:00:26.983+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T12:00:28.274+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:11:56.667+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:12:04.621+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:12:57.281+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:13:39.010+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-05T12:13:39.024+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T12:13:39.024+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T12:13:39.025+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T12:13:39.026+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T12:13:39.028+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T12:14:24.285+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:14:46.404+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:16:16.806+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:16:59.717+08:00 level=WARN msg="Websocket 断开" error="read tcp 192.168.3.159:56844->192.168.3.159:4001: wsarecv: An existing connection was forcibly closed by the remote host."
+time=2026-10-05T12:17:06.722+08:00 level=ERROR msg="Websocket 连接失败" error="dial tcp 192.168.3.159:4001: connectex: No connection could be made because the target machine actively refused it."
+time=2026-10-05T12:17:18.741+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-05T12:17:18.775+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T12:17:18.776+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T12:17:18.776+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T12:17:18.777+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T12:17:18.780+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T12:17:22.337+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:17:30.921+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:17:32.313+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:17:43.059+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:18:18.781+08:00 level=WARN msg="Websocket 断开" error="read tcp 192.168.3.159:57649->192.168.3.159:4001: i/o timeout"
+time=2026-10-05T12:18:33.259+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T12:18:37.234+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:18:47.792+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T12:19:42.632+08:00 level=WARN msg="Websocket 断开" error="read tcp 192.168.3.159:60017->192.168.3.159:4001: wsarecv: An existing connection was forcibly closed by the remote host."
+time=2026-10-05T13:30:05.012+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-05T13:30:05.036+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T13:30:05.036+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T13:30:05.037+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T13:30:05.041+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T13:30:05.045+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T13:31:19.581+08:00 level=INFO msg="Websocket 已关闭"
+time=2026-10-05T13:31:19.603+08:00 level=INFO msg=串口已关闭 device=dev-nzcsy
+time=2026-10-05T13:31:19.617+08:00 level=INFO msg=串口已关闭 device=dev-scan01
+time=2026-10-05T13:31:19.617+08:00 level=INFO msg="Serial Agent 已停止"
+time=2026-10-05T13:35:34.067+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-05T13:35:34.147+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T13:35:34.147+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T13:35:34.147+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T13:35:34.149+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T13:35:34.152+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T13:37:22.881+08:00 level=ERROR msg=串口数据转发网关失败 device=dev-scan01 error="websocket 未连接" len=6 hex=313233313233
+time=2026-10-05T13:37:22.883+08:00 level=WARN msg="Websocket 断开" error="read tcp 192.168.3.159:53772->192.168.3.159:4001: i/o timeout"
+time=2026-10-05T13:37:27.884+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T13:37:35.294+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:38:11.811+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:39:28.267+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-05T13:39:28.333+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T13:39:28.333+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T13:39:28.335+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T13:39:28.336+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T13:39:28.341+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T13:39:36.885+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:40:41.632+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:42:34.770+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:44:56.464+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-05T13:44:56.489+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T13:44:56.489+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T13:44:56.491+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T13:44:56.493+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T13:44:56.496+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T13:45:04.885+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:45:17.208+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:46:11.905+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:47:37.470+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:47:37.476+08:00 level=WARN msg=无法路由串口写入消息 error="未知设备 \"sa-01\"" id=5f4da7df-a613-477b-8ead-29da97c7e8be to=sa-01
+time=2026-10-05T13:47:48.664+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:47:48.669+08:00 level=WARN msg=无法路由串口写入消息 error="未知设备 \"sa-01\"" id=a9b598e0-c684-49d8-92ef-ae3520503f08 to=sa-01
+time=2026-10-05T13:48:35.827+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:48:47.193+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:48:47.199+08:00 level=WARN msg=无法路由串口写入消息 error="未知设备 \"sa-01\"" id=7aaa60a1-a54f-4744-98de-9d1b72e05042 to=sa-01
+time=2026-10-05T13:52:30.085+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:54:16.351+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-05T13:54:16.384+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T13:54:16.384+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T13:54:16.384+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T13:54:16.386+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T13:54:16.388+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T13:54:19.266+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:57:49.848+08:00 level=INFO msg="Websocket 已关闭"
+time=2026-10-05T13:57:49.869+08:00 level=INFO msg=串口已关闭 device=dev-nzcsy
+time=2026-10-05T13:57:49.871+08:00 level=INFO msg=串口已关闭 device=dev-scan01
+time=2026-10-05T13:57:49.871+08:00 level=INFO msg="Serial Agent 已停止"
+time=2026-10-05T13:57:55.070+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-05T13:57:55.088+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T13:57:55.088+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T13:57:55.088+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T13:57:55.089+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T13:57:55.091+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T13:57:58.237+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:58:09.445+08:00 level=WARN msg=无法路由串口写入消息 error="未知设备 \"sa-01\"" id=bf52cf5a-cb52-4182-824a-0ec3775aecbb to=sa-01
+time=2026-10-05T13:58:29.988+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T13:58:38.711+08:00 level=WARN msg=无法路由串口写入消息 error="未知设备 \"sa-01\"" id=54e927c1-b784-47cc-9bc3-873d1c530b11 to=sa-01
+time=2026-10-05T14:01:25.247+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-05T14:01:25.274+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T14:01:25.274+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T14:01:25.274+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T14:01:25.276+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T14:01:25.279+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T14:02:13.201+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T14:02:40.352+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T14:04:37.450+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T14:04:37.455+08:00 level=WARN msg=无法路由串口写入消息 error="未知设备 \"sa-01\"" id=dev-nzcsy to=sa-01
+time=2026-10-05T14:05:37.104+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T14:06:56.487+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-05T14:06:56.558+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-05T14:06:56.559+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-05T14:06:56.560+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-05T14:06:56.566+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T14:06:56.571+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-05T14:07:01.727+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T14:07:05.223+08:00 level=INFO msg="网关 -> 串口" device=dev-nzcsy id=dev-nzcsy len=4 hex=7472670a
+time=2026-10-05T14:07:06.272+08:00 level=INFO msg="串口 -> 网关" device=dev-nzcsy len=25 hex=2b312e30303030652b30372c2b302e3030303030652b30300a
+time=2026-10-05T14:07:12.575+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=6 hex=313233313233
+time=2026-10-05T14:07:12.580+08:00 level=INFO msg="网关 -> 串口" device=dev-nzcsy id=dev-nzcsy len=4 hex=7472670a
+time=2026-10-05T14:07:13.627+08:00 level=INFO msg="串口 -> 网关" device=dev-nzcsy len=25 hex=2b312e30303030652b30372c2b302e3030303030652b30300a
+time=2026-10-05T14:07:19.638+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=9 hex=313233313233323334
+time=2026-10-05T14:07:19.643+08:00 level=INFO msg="网关 -> 串口" device=dev-nzcsy id=dev-nzcsy len=4 hex=7472670a
+time=2026-10-05T14:07:20.696+08:00 level=INFO msg="串口 -> 网关" device=dev-nzcsy len=25 hex=2b312e30303030652b30372c2b302e3030303030652b30300a
+time=2026-10-05T14:07:36.282+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=9 hex=313233313233323334
+time=2026-10-05T14:07:36.293+08:00 level=INFO msg="网关 -> 串口" device=dev-nzcsy id=dev-nzcsy len=4 hex=7472670a
+time=2026-10-05T14:07:37.353+08:00 level=INFO msg="串口 -> 网关" device=dev-nzcsy len=25 hex=2b312e31333638652d30322c2b332e3937393931652b30300a
+time=2026-10-05T14:07:46.387+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=11 hex=68656c6c6f20776f726c64
+time=2026-10-05T14:07:46.397+08:00 level=INFO msg="网关 -> 串口" device=dev-nzcsy id=dev-nzcsy len=4 hex=7472670a
+time=2026-10-05T14:07:47.454+08:00 level=INFO msg="串口 -> 网关" device=dev-nzcsy len=25 hex=2b312e31333737652d30322c2b332e3937393932652b30300a
+time=2026-10-05T14:08:07.521+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-nzcsy error="Access is denied." retry_in=3s
+time=2026-10-05T14:08:10.522+08:00 level=WARN msg=串口不可用，稍后重试 device=dev-nzcsy error="打开串口 COM4 失败: Serial port not found" retry_in=3s
+time=2026-10-05T14:08:13.533+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-05T14:08:21.443+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=8 hex=68656c6c6f20776f
+time=2026-10-05T14:08:21.449+08:00 level=INFO msg="网关 -> 串口" device=dev-nzcsy id=dev-nzcsy len=4 hex=7472670a
+time=2026-10-05T14:08:22.501+08:00 level=INFO msg="串口 -> 网关" device=dev-nzcsy len=25 hex=2b312e31333634652d30322c2b332e3937393931652b30300a
+time=2026-10-05T14:11:55.482+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=8 hex=68656c6c6f20776f
+time=2026-10-05T14:12:23.146+08:00 level=INFO msg="网关 -> 串口" device=dev-nzcsy id=dev-nzcsy len=4 hex=7472670a
+time=2026-10-05T14:12:24.197+08:00 level=INFO msg="串口 -> 网关" device=dev-nzcsy len=25 hex=2b312e30303030652b30372c2b302e3030303030652b30300a
+time=2026-10-05T14:19:27.776+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=8 hex=68656c6c6f20776f
+time=2026-10-05T14:20:02.648+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=8 hex=68656c6c6f20776f
+time=2026-10-05T14:22:16.234+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=8 hex=68656c6c6f20776f
+time=2026-10-05T14:22:58.368+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=8 hex=68656c6c6f20776f
