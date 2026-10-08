@@ -233,3 +233,69 @@ time=2026-10-05T14:19:27.776+08:00 level=INFO msg="串口 -> 网关" device=dev-
 time=2026-10-05T14:20:02.648+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=8 hex=68656c6c6f20776f
 time=2026-10-05T14:22:16.234+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=8 hex=68656c6c6f20776f
 time=2026-10-05T14:22:58.368+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=8 hex=68656c6c6f20776f
+time=2026-10-08T10:48:12.624+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-08T10:48:12.639+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-08T10:48:12.640+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-08T10:48:12.640+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-08T10:48:12.641+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-08T10:48:14.644+08:00 level=ERROR msg="Websocket 连接失败" error="dial tcp 192.168.3.159:4001: connectex: No connection could be made because the target machine actively refused it."
+time=2026-10-08T10:48:21.649+08:00 level=ERROR msg="Websocket 连接失败" error="dial tcp 192.168.3.159:4001: connectex: No connection could be made because the target machine actively refused it."
+time=2026-10-08T10:48:28.676+08:00 level=ERROR msg="Websocket 连接失败" error="dial tcp 192.168.3.159:4001: connectex: No connection could be made because the target machine actively refused it."
+time=2026-10-08T10:48:35.679+08:00 level=ERROR msg="Websocket 连接失败" error="dial tcp 192.168.3.159:4001: connectex: No connection could be made because the target machine actively refused it."
+time=2026-10-08T10:48:40.681+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-08T10:49:07.223+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-08T10:49:07.239+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-08T10:49:07.239+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-08T10:49:07.239+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-08T10:49:07.241+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-08T10:49:07.242+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-08T10:56:42.668+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-08T10:56:42.692+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-08T10:56:42.692+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-08T10:56:42.692+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-08T10:56:42.695+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-08T10:56:42.696+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-08T10:57:22.331+08:00 level=WARN msg="Websocket 断开" error="websocket: close 1006 (abnormal closure): unexpected EOF"
+time=2026-10-08T10:57:27.334+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-08T10:57:58.582+08:00 level=WARN msg="Websocket 断开" error="read tcp 192.168.3.159:60669->192.168.3.159:4001: wsarecv: An existing connection was forcibly closed by the remote host."
+time=2026-10-08T10:58:05.585+08:00 level=ERROR msg="Websocket 连接失败" error="dial tcp 192.168.3.159:4001: connectex: No connection could be made because the target machine actively refused it."
+time=2026-10-08T10:58:10.589+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-08T10:58:24.097+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-08T10:58:24.116+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-08T10:58:24.117+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-08T10:58:24.117+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-08T10:58:24.119+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-08T10:58:24.121+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-08T10:58:47.386+08:00 level=WARN msg="Websocket 断开" error="websocket: close 1006 (abnormal closure): unexpected EOF"
+time=2026-10-08T10:58:52.399+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-08T10:59:54.200+08:00 level=WARN msg="Websocket 断开" error="websocket: close 1006 (abnormal closure): unexpected EOF"
+time=2026-10-08T10:59:59.203+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-08T11:08:57.434+08:00 level=WARN msg="Websocket 断开" error="read tcp 192.168.3.159:63248->192.168.3.159:4001: wsarecv: An existing connection was forcibly closed by the remote host."
+time=2026-10-08T11:09:04.436+08:00 level=ERROR msg="Websocket 连接失败" error="dial tcp 192.168.3.159:4001: connectex: No connection could be made because the target machine actively refused it."
+time=2026-10-08T11:09:09.443+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-08T11:09:31.478+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-08T11:09:31.496+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-08T11:09:31.496+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-08T11:09:31.497+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-08T11:09:31.499+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-08T11:09:31.499+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-08T11:12:12.620+08:00 level=INFO msg="Serial Agent 启动" gateway=ws://192.168.3.159:4001/ws agent_id=sa-01 devices=2
+time=2026-10-08T11:12:12.636+08:00 level=INFO msg=设备启动 device=dev-nzcsy name=内阻测试仪 serial=COM4
+time=2026-10-08T11:12:12.636+08:00 level=INFO msg=设备启动 device=dev-scan01 name=扫码枪01 serial=COM6
+time=2026-10-08T11:12:12.636+08:00 level=INFO msg=串口已打开 device=dev-scan01 port=COM6
+time=2026-10-08T11:12:12.638+08:00 level=INFO msg=串口已打开 device=dev-nzcsy port=COM4
+time=2026-10-08T11:12:12.640+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-08T11:15:00.210+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=5 hex=68656c6c6f
+time=2026-10-08T11:15:40.261+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=5 hex=68656c6c6f
+time=2026-10-08T11:18:49.679+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=5 hex=68656c6c6f
+time=2026-10-08T11:19:42.642+08:00 level=WARN msg="Websocket 断开" error="read tcp 192.168.3.159:61289->192.168.3.159:4001: i/o timeout"
+time=2026-10-08T11:19:52.952+08:00 level=INFO msg="Websocket 连接成功" url="ws://192.168.3.159:4001/ws?id=sa-01&type=device"
+time=2026-10-08T11:26:34.011+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=5 hex=68656c6c6f
+time=2026-10-08T11:38:24.204+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=5 hex=68656c6c6f
+time=2026-10-08T11:38:24.212+08:00 level=INFO msg="网关 -> 串口" device=dev-nzcsy id=dev-nzcsy len=4 hex=7472670a
+time=2026-10-08T11:38:56.002+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=5 hex=68656c6c6f
+time=2026-10-08T11:38:56.008+08:00 level=INFO msg="网关 -> 串口" device=dev-nzcsy id=dev-nzcsy len=4 hex=7472670a
+time=2026-10-08T11:38:57.063+08:00 level=INFO msg="串口 -> 网关" device=dev-nzcsy len=25 hex=2b312e30303030652b30372c2b302e3030303030652b30300a
+time=2026-10-08T11:39:15.740+08:00 level=INFO msg="串口 -> 网关" device=dev-scan01 len=5 hex=68656c6c6f
+time=2026-10-08T11:39:15.746+08:00 level=INFO msg="网关 -> 串口" device=dev-nzcsy id=dev-nzcsy len=4 hex=7472670a
+time=2026-10-08T11:39:16.802+08:00 level=INFO msg="串口 -> 网关" device=dev-nzcsy len=25 hex=2b312e30303030652b30372c2b302e3030303030652b30300a

@@ -31,6 +31,14 @@ func main() {
 
 	slog.Info("Serial Agent 启动", "gateway", cfg.Server.URL, "agent_id", cfg.Server.AgentID, "devices", len(cfg.Devices))
 
+	// 启动本机 Info API
+	infoServer := service.NewInfoServer(cfg.Server.AgentID)
+	go func() {
+		if err := infoServer.Run(ctx); err != nil {
+			slog.Error("Info API 运行失败", "error", err)
+		}
+	}()
+
 	if err := service.Run(ctx, cfg); err != nil {
 		slog.Error("Serial Agent 启动失败", "error", err)
 		os.Exit(1)
